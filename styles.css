@@ -548,9 +548,24 @@
 .footer--conatiner {
     background-color: #141414;
 }
+
 #github {
     height: 50px;
     width: auto;
-    margin-left: 26rem;
+    margin-left: 20rem;
+    margin-top: 13px;
+}
+
+#linkedin {
+    height: 50px;
+    width: auto;
+    margin-left: 15rem;
+    margin-top: 13px;
+}
+
+#vercel {
+    height: 50px;
+    width: auto;
+    margin-left: 15rem;
     margin-top: 13px;
 }
