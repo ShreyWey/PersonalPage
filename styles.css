@@ -519,7 +519,7 @@
     width: 100%;
     max-width: 1300px;
     padding: 0 50px;
-    margin-top: -33rem;
+    margin-top: -41rem;
 }
 
 .main3__content h1{
@@ -538,6 +538,19 @@
 
 #main3__img {
     height: 100%;
-    width: 120%;
+    width: 100%;
     padding-left: 2rem;
+    padding-top: 6rem;
+}
+
+
+/*footer*/
+.footer--conatiner {
+    background-color: #141414;
+}
+#github {
+    height: 50px;
+    width: auto;
+    margin-left: 26rem;
+    margin-top: 13px;
 }
