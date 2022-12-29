@@ -418,3 +418,126 @@
         padding-bottom: 500rem;
     }
 }
+
+.main2 {
+    background-color: #191919;
+}
+
+.main2__container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    align-items: center;
+    justify-self: center;
+    margin: 0 auto;
+    height: 160vh;
+    background-color: #191919;
+    z-index: 1;
+    width: 100%;
+    max-width: 1300px;
+    padding: 0 50px;
+    margin-top: -40rem;
+}
+
+.main2__content h1{
+    color:#ff0844;
+    font-size: 4rem;
+}
+
+.main2__content p {
+    color:#fff;
+    font-size: 1.5rem;
+} 
+
+.main2__img--container {
+    text-align: center;
+}
+
+#main2__img {
+    height: 100%;
+    width: 100%;
+    padding-left: 2rem;
+}
+
+@media screen and (max-width: 1000px) {
+    .main2__container {
+        display: grid;
+        grid-template-columns: auto;
+        align-items: center;
+        justify-self: center;
+        width: 100%;
+        margin: 0 auto;
+        height: 250vh;
+        padding-top: 0rem;
+    }
+
+    .main2__content {
+        text-align: left;
+        margin-bottom: -35rem;
+    }
+
+    .main2__content h1 {
+        font-size: 5rem;
+    }
+
+    .main2__content p {
+        margin-top: 1rem;
+        font-size: 1.5rem;
+    }
+
+    .main2__img--container {
+        margin-top: 10rem;
+    }
+}
+
+@media screen and (max-width: 480px) {
+
+    .main2__content h1 {
+        font-size: 2rem;
+        margin-top: 3rem;
+    }
+
+    .main2__content p {
+        margin-top: 2rem;
+        font-size: 1.5rem;
+        padding-bottom: 500rem;
+    }
+}
+
+.main3 {
+    background-color: #191919;
+}
+
+.main3__container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    align-items: center;
+    justify-self: center;
+    margin: 0 auto;
+    height: 160vh;
+    background-color: #191919;
+    z-index: 1;
+    width: 100%;
+    max-width: 1300px;
+    padding: 0 50px;
+    margin-top: -33rem;
+}
+
+.main3__content h1{
+    color:#ff0844;
+    font-size: 4rem;
+}
+
+.main3__content p {
+    color:#fff;
+    font-size: 1.5rem;
+} 
+
+.main3__img--container {
+    text-align: center;
+}
+
+#main3__img {
+    height: 100%;
+    width: 120%;
+    padding-left: 2rem;
+}
