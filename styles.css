@@ -613,3 +613,19 @@
     margin-left: 15rem;
     margin-top: 13px;
 }
+
+@media screen and (max-width: 1000px) {
+    
+    .footer--conatiner {
+        display:flex; 
+        flex-wrap:wrap;
+    }
+}
+
+@media screen and (max-width: 480px) {
+
+    .footer--conatiner {
+        display:flex; 
+        flex-wrap:wrap;
+    }
+}
