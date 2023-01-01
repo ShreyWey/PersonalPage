@@ -603,6 +603,7 @@
 /*footer*/
 .footer--conatiner {
     background-color: #141414;
+    height: auto;
 }
 
 #github {
