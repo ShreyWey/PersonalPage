@@ -505,6 +505,10 @@
         font-size: 1.5rem;
         padding-bottom: 500rem;
     }
+
+    #main2__img {
+        display: none;
+    }
 }
 
 .main3 {
@@ -589,6 +593,10 @@
         margin-top: 2rem;
         font-size: 1.5rem;
         padding-bottom: 500rem;
+    }
+
+    #main3__img {
+        display: none;
     }
 }
 
