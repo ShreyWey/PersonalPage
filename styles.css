@@ -247,13 +247,13 @@
 .hi{
     font-size: 4rem;
     background-color: rgb(255, 255, 255);
-    /*background-image: linear-gradient(to top, #08f3ff 0%, #1919ff 100%);*/
+    background-image: #ffffff;
     background-size: 100%;
     -webkit-background-clip: text;
     -moz-background-clip: text;
     -webkit-text-fill-color: transparent;
     -moz-text-fill-color: transparent
-}
+} 
 
 .name{
     font-size: 7rem;
