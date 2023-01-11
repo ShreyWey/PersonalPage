@@ -645,13 +645,13 @@
 
 @media screen and (max-height: 1080px) {
 
-    .main1 {
+    .main1__container {
+        height: 30px;
+    }
+    .main2__container {
         padding-bottom: 30px;
     }
-    .main2 {
-        padding-bottom: 30px;
-    }
-    .main3 {
+    .main3__container {
         padding-bottom: 30px;
     }
 }
