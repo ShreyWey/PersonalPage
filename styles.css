@@ -642,3 +642,16 @@
         flex-wrap:wrap;
     }
 }
+
+@media screen and (max-height: 1080px) {
+
+    .main1 {
+        margin-bottom: 30px;
+    }
+    .main2 {
+        margin-bottom: 30px;
+    }
+    .main3 {
+        margin-bottom: 30px;
+    }
+}
