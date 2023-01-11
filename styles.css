@@ -345,7 +345,7 @@
     align-items: center;
     justify-self: center;
     margin: 0 auto;
-    height: 160vh;
+    height: 100vh;
     background-color: #191919;
     z-index: 1;
     width: 100%;
@@ -433,7 +433,7 @@
     align-items: center;
     justify-self: center;
     margin: 0 auto;
-    height: 160vh;
+    height: 120vh;
     background-color: #191919;
     z-index: 1;
     width: 100%;
@@ -521,7 +521,7 @@
     align-items: center;
     justify-self: center;
     margin: 0 auto;
-    height: 160vh;
+    height: 120vh;
     background-color: #191919;
     z-index: 1;
     width: 100%;
